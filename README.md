@@ -6,7 +6,7 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
+<p align="left">
   <a href="https://github.com/lvtating">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lvtating&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="lvtating's GitHub Stats" />
   </a>
