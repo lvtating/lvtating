@@ -10,7 +10,10 @@
   <a href="https://github.com/lvtating">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lvtating&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="lvtating's GitHub Stats" />
   </a>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=lvtating&theme=radical&hide_border=true&cache_seconds=86400" alt="lvtating's GitHub Streak" width="49%" />
+  <img height="250em" src="https://streak-stats.demolab.com/?user=lvtating&theme=radical&hide_border=true&cache_seconds=86400" alt="lvtating's GitHub Streak" width="49%" />
+</p>
+<p align="right">
+  <img height="300em" src="dualipa.jpeg"/>
 </p>
 
 <picture>
