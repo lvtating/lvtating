@@ -6,15 +6,20 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
-<p align="left">
-  <a href="https://github.com/lvtating">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lvtating&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="lvtating's GitHub Stats" />
-  </a>
-  <img height="250em" src="https://streak-stats.demolab.com/?user=lvtating&theme=radical&hide_border=true&cache_seconds=86400" alt="lvtating's GitHub Streak" width="49%" />
-</p>
-<p align="right">
-  <img height="300em" src="dualipa.jpeg"/>
-</p>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/lvtating">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lvtating&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="lvtating's GitHub Stats" />
+      </a>
+      <br />
+      <img height="180em" src="https://streak-stats.demolab.com/?user=lvtating&theme=radical&hide_border=true&cache_seconds=86400" alt="lvtating's GitHub Streak" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="dualipa.jpeg" width="50%" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
