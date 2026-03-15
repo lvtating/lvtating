@@ -16,7 +16,7 @@
       <img height="180em" src="https://streak-stats.demolab.com/?user=lvtating&theme=radical&hide_border=true&cache_seconds=86400" alt="lvtating's GitHub Streak" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="dualipa.jpeg" width="50%" style="border-radius:10px;" />
+      <img src="dualipa.jpeg" width="70%" style="border-radius:10px;" />
     </td>
   </tr>
 </table>
