@@ -5,6 +5,13 @@
   <img src="afonsinha.gif" />
 </p>
 
+<h1 align="left">🎓 Ciência da Computação Bacharelado @ UnB (Universidade de Brasília)</h1>
+<h1 align="left">🤖 Núcleo de Desenvolvimento e Pesquisa (NDP) @ CJR Empresa Júnior de Computação (CJR UnB)</h1>
+<h1 align="left">📚 Pesquisa acadêmica e solução de prolemas</h1>
+<h1 align="left">🚀 Focus: Desenvolvimento web, Machine Learning & Data Science</h1>
+
+
+
 ## 📊 GitHub Stats & Trophies
 <table border="0">
   <tr>
